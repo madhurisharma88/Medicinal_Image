@@ -1,5 +1,5 @@
 # Medicinal_Image
-
+Swin Transformer model is applied on Indian Medical Leaves Dataset, which helps in aiding the classfiication on leaves dataset.
 
 References:
 
